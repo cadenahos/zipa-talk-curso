@@ -1,4 +1,4 @@
-Este curso es presentado para el grupo conversacional zipa Talk. 
+<h1>Este curso es presentado para el grupo conversacional zipa Talk. </h1>
 
 
 
@@ -6,17 +6,16 @@ Este curso es presentado para el grupo conversacional zipa Talk.
 
 Para cualquiera que este interesado en aprender ingles dentro del 
 
-conversatorio y le haga falta una directriz o un curso tradicional, dejo a dispociciòn
+conversatorio y le haga falta una directriz o un curso tradicional, 
 
-links a cursos gratuitos en plataformas como EDX y Coursera. 
+dejo a dispociciòn unos links a cursos gratuitos en plataformas como EDX y Coursera. 
 
 Se agregan algunos libros que pueden ayudar a complementar los cursos. 
 
 
 
 
-Este repositorio esta pensado para personas que Tengan desde un nivel A2 hasta un B2
-
+<h2> Este repositorio esta pensado para personas que Tengan desde un nivel A2 hasta un B2 </h2>
 
 
 
